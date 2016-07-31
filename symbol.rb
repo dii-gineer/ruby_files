@@ -6,4 +6,4 @@ client_05 = {name:  "Ferdinand", age:  "24", height: "5.7", weight: "160 Ibs"}
 
 
 challenge_winner= client_03 [:name]
-puts "#{challenge_winner} is the winner of this month's challenge"
+puts "#{challenge_winner} is the winner of this month's challenge!"

@@ -8,14 +8,6 @@ class Hobbies
 		return @name
 	end
 
-	def set_hours=(hours)
-		@hours = hours
-	end
-
-	def get_hours
-		return @hours
-	end
-
 	def gear=(gear)
 		@gear = gear
 end
